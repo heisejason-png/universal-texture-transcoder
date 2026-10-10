@@ -197,5 +197,5 @@ The two provided decoders, `uastc_r8_unorm.wasm` and `uastc_rg8_unorm.wasm`, sha
 - RG8
   - `uncompressedByteLength = width * yBlocks * 4 * 2`
   - `textureByteLength = width * height * 2`
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
