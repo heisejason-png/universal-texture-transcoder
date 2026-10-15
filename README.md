@@ -199,3 +199,4 @@ The two provided decoders, `uastc_r8_unorm.wasm` and `uastc_rg8_unorm.wasm`, sha
   - `textureByteLength = width * height * 2`
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
+https://www.meta.com
